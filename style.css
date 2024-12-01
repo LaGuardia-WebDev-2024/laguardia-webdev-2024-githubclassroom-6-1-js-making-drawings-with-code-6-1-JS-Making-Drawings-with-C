@@ -1,0 +1,11 @@
+body {
+  background-image: url("https://wallpapers.com/images/featured/snow-background-v24n2zxteoor8gpf.jpg");
+  color: white;
+  text-align: center;
+  
+}
+
+#myCanvas {
+  border-radius: 30px;
+  border: 15px double rgb(201, 219, 233);
+}
